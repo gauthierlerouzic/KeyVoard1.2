@@ -1,3 +1,7 @@
+// KeyVoard - Gauthier Le Rouzic
+// 1.2
+//
+
 import processing.video.*;
 PImage bg;
 

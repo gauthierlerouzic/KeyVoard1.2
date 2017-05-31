@@ -16,6 +16,10 @@ import java.io.IOException;
 
 public class KeyVoard1_2 extends PApplet {
 
+// KeyVoard - Gauthier Le Rouzic
+// 1.2
+//
+
 
 PImage bg;
 
